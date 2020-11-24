@@ -53,11 +53,9 @@ body {
 .first {
   padding: 10px;
 }
-.information {
-  z-index: 10;
-}
 
 .information {
+    z-index: 10;
   width: 100%;
   text-align: center;
 }
